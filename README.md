@@ -427,6 +427,6 @@ Bug reports, feature suggestions, and pull requests are welcome. Please open an 
 
 ---
 
-**Live Demo:** https://www.satori-sat.com/tory:** https://github.com/[your-username]/satori-wasm
+**Live Demo:** https://www.satori-sat.com/tory:** 
 
 **Issues & Support:** Open an issue on GitHub
